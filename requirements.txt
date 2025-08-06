@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+python-docx
+git remote add origin https://github.com/Akinyi83/ML-loanpredictor.git
