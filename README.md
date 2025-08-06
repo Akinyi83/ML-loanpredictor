@@ -1,7 +1,7 @@
 # 🏦 Loan Approval Predictor
 
 ##  Overview
-This project involves building a machine learning model that predicts whether a loan application should be **approved** or **rejected** based on key applicant details. It walks through the complete machine learning lifecycle — from data loading and cleaning to feature selection, model training, and evaluation.
+This project involves building a machine learning model that predicts whether a loan application should be **approved** or **rejected** based on key applicant details. It walks through the complete machine learning lifecycle — from data loading and cleaning to feature selection, model training and evaluation.
 
 >  Dataset: [Loan Approval Dataset - Kaggle](https://www.kaggle.com/datasets/granjithkumar/loan-approval-data-set)
 
